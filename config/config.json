@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Geeky Nextjs",
+    "title": "TumoTV",
     "base_url": "/",
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_white": "/images/logo-light.png",
-    "logo_width": "150",
-    "logo_height": "39",
-    "logo_text": "Geeky"
+    "logo": "/images/logo-color.png",
+    "logo_white": "/images/logo-color.png",
+    "logo_width": "130.625",
+    "logo_height": "50",
+    "logo_text": "TumoTV"
   },
   "settings": {
     "theme_switcher": true,
@@ -22,13 +22,13 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
-    "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
+    "footer_content": "Learn to code without breaking the bank. Share your knowledge and grow together with our supportive community.",
+    "copyright": "Designed and Developed By TumoTV Developer"
   },
   "metadata": {
-    "meta_author": "Statichunt",
+    "meta_author": "TumoTV",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Geeky Nextjs Personal Blog Template"
+    "meta_description": "TumoTV"
   },
   "widgets": {
     "about": {

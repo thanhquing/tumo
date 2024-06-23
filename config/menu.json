@@ -9,15 +9,15 @@
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
       "name": "Contact",
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "Courses",
+      "url": "/courses"
+    },
+    {
+      "name": "Posts",
       "url": "",
       "hasChildren": true,
       "children": [

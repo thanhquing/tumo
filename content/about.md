@@ -1,5 +1,5 @@
 ---
-title: About The Author
+title: About Me
 image: /images/author.png
 description: "meta description"
 layout: about
@@ -31,6 +31,6 @@ experience:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus ndisse. morbi quis nunc.
+Hello, I'm Thanh Nguyen from Vietnam, bringing over 5 years of extensive experience in software development. My expertise spans a diverse range of projects, including E-commerce, social networks, live streaming, and more. Additionally, I have actively learned and contributed to various blockchain and Web3-related initiatives, demonstrating a keen interest in cutting-edge technologies. Currently, I am deeply engaged in a real estate project that has been ongoing for nearly 2 and a half years. 
 
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse. morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis ndisse. morbi quis nunc, at arcu quam facilisi ndisse. morbi quis nunc, at arcu quam facilisi
+If your team is in search of a versatile professional with a wealth of solutions to offer, I am confident that my skills and experiences make me an ideal fit for your requirements.

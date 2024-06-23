@@ -1,8 +1,8 @@
 ---
 banner:
-  title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title: Welcome
+  title_small: "to TumoTV's Blog"
+  content: Learn to code without breaking the bank. Share your knowledge and grow together with our supportive community.
   image_enable: true
   image: /images/banner-author.png
   button:
